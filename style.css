@@ -269,7 +269,7 @@ ul a{
  
  }
  .navbar{
-     height: 70px;
+     height: 60px;
       background-color: #0F1111; 
       color:white; 
      display: flex;
@@ -304,7 +304,7 @@ ul a{
  } 
  
   .add-second{
-     font-size: 0.5rem;
+     font-size: 0.7rem;
      margin-left: 3px;
  
  }
@@ -318,7 +318,7 @@ ul a{
      display: flex;
      background-color: goldenrod;
     width: 100px;
-     height: 30px;
+     height: 20px;
      border-radius: 3px;
  }
  
@@ -334,7 +334,7 @@ ul a{
      border: none;
  }
  .search-input{
-     width: 50%;
+     width: 30%;
      font-size: 0.5rem;
      border: none;
  }
@@ -353,7 +353,7 @@ ul a{
  /** box4 **/
  
  span{
-     font-size: 0.6rem;
+     font-size: 0.5rem;
  }
  .nav-second{
      font-size: 0.6rem;
@@ -363,18 +363,18 @@ ul a{
  /** Box6**/
  .nav-cart {
      text-align: center;
-     font-size: 0.5rem;
+     font-size: 0.4rem;
      font-weight: 700;
   
      
  }
  .nav-cart i{
-     font-size: 25px;
+     font-size: 10px;
  }
  /** Panels **/
  
  .panel{
-     height: 50px;
+     height: 40px;
      background-color: #222f3d;
      display: flex;
      color: white;
@@ -387,12 +387,12 @@ ul a{
      margin: 5px;
  }
  .panel-ops{
-     width: 70%;
+     width: 180%;
      font-size: 0.54rem;
  }
  .panel-deals{
      font-size: 0.5rem;
-     font-weight:500;
+     font-weight:5;
  }
  /** Hero Section **/
  .hero-section{
@@ -431,7 +431,7 @@ ul a{
  .box{
      /* border: 2px solid black; */
      height: 400px;
-     width:50%;
+     width:80%;
      background-color: white;
      padding: 30px 0px 20px;
      margin-top:15px;
